@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+Pillow
+pyscreenshot
+pynput
+psutil
+opencv-contrib-python
+opencv-python
+wikipedia
+youtube_search
+wmi
+geopy
+googletrans==3.1.0a0
